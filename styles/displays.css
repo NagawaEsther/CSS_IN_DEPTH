@@ -1,0 +1,21 @@
+.box {
+    display: block;
+    width: 200px;
+    height: 200px;
+    background-color: red;
+    color: white;
+    text-align: center;
+    font-size: 24px;
+    line-height: 200px;
+  }
+
+  .Examinations{
+    display: inline;
+    width: 200px;
+    height: 200px;
+    background-color: blue;
+    color: cornsilk;
+    text-align: left;
+    font-size: 25px;
+    line-height: 100px;
+  }

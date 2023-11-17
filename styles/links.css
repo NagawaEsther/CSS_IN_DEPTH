@@ -1,0 +1,13 @@
+a:hover{color: chartreuse;
+    }
+
+    .tap-here{
+        display: inline-flex;
+        padding: 15px 20px;
+        border: none;
+        background-color: cyan;
+        color: blueviolet;
+        text-decoration: none;
+        font-weight: bold;
+        border-radius: 5px;
+    }

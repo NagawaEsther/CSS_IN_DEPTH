@@ -1,0 +1,25 @@
+.visible {width: 200px;
+        height: 65px;
+        background-color: coral;
+        overflow: visible;}
+.Hidden{
+    width: 200px;
+    height: 70px;
+    background-color: chartreuse;
+    overflow: hidden;
+}
+
+.scroll{
+    width: 200px;
+    height: 65px;
+    background-color: hotpink;
+    overflow: scroll;
+}
+
+.auto{
+    width: 200px;
+    height: 75px;
+    background-color: darkmagenta;
+    overflow: auto;
+}
+
